@@ -1,0 +1,1395 @@
+canonical_identifier: bkk:krp/KR3ed032/v1
+canonical_location: https://kanripo.org/bkk/KR3ed032/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 絳雪丹書
+  identifiers:
+    krp: KR3ed032
+  tags:
+    kr-categories: KR3ed
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed032.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ed032_000.yaml, hash: 'sha256:73e0d07b732ec8d439c0a55ec5ae7f67c1ec2ad9e1b8dbe4a96c7e151a1ecb6b'}
+  - {seq: 1, filename: KR3ed032_001.yaml, hash: 'sha256:ee0edd97955d86fd40dcdf3a81e4ab14535e22ffe899cd1c4fc3038547b261b1'}
+  - {seq: 3, filename: KR3ed032_003.yaml, hash: 'sha256:a8bd97e5a7a6baca1bc4dab9289da43be1a1c020d8382f7a71f83f4df6d6a7dc'}
+  - {seq: 0, filename: KR3ed032_000.yaml, hash: 'sha256:73e0d07b732ec8d439c0a55ec5ae7f67c1ec2ad9e1b8dbe4a96c7e151a1ecb6b'}
+  - {seq: 1, filename: KR3ed032_001.yaml, hash: 'sha256:ee0edd97955d86fd40dcdf3a81e4ab14535e22ffe899cd1c4fc3038547b261b1'}
+  - {seq: 3, filename: KR3ed032_003.yaml, hash: 'sha256:a8bd97e5a7a6baca1bc4dab9289da43be1a1c020d8382f7a71f83f4df6d6a7dc'}
+  - {seq: 0, filename: KR3ed032_000.yaml, hash: 'sha256:73e0d07b732ec8d439c0a55ec5ae7f67c1ec2ad9e1b8dbe4a96c7e151a1ecb6b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ed032_000.markers.yaml, hash: 'sha256:f0092b8746f5b36d0f9d7165f42f4f29f83b6a53575cccbb12121b0147f63247'}
+  - {seq: 1, role: markers, filename: assets/KR3ed032_001.markers.yaml, hash: 'sha256:8e607808f0da2aa9252dfeb2b8bc1c3d0e7b6206441cc83cc9d126ae7a35597a'}
+  - {seq: 3, role: markers, filename: assets/KR3ed032_003.markers.yaml, hash: 'sha256:2d10c3e66ded4cb45dd5e04579d688b9e535ad79c30eb795b15ad3c3f1d27d2d'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ed032_jc_000-d3.h1s1
+    span:
+    - front
+    - 0
+    - 139
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed032_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 94
+  label: 引
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d4.h1s1
+    span:
+    - body
+    - 0
+    - 6969
+  label: 胎症上卷
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d4d2
+    span:
+    - body
+    - 4
+    - 821
+  label: 妊娠脈訣
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d4d3
+    span:
+    - body
+    - 821
+    - 937
+  label: 受胎試驗法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d4d4
+    span:
+    - body
+    - 937
+    - 1043
+  label: 辨男女法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d4d5
+    span:
+    - body
+    - 1043
+    - 1210
+  label: 辨種子方不可服論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d4d6
+    span:
+    - body
+    - 1210
+    - 1466
+  label: 瘦胎三方不可服論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d4.d6d6
+    span:
+    - body
+    - 1404
+    - 1466
+  label: 滋榮易產湯孕婦九個月服之有益
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d4d7
+    span:
+    - body
+    - 1466
+    - 1746
+  label: 衰翁弱婦求嗣辨
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d4.d7d4
+    span:
+    - body
+    - 1610
+    - 1709
+  label: 補陽育子丸大補老年人
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d4.d7d5
+    span:
+    - body
+    - 1709
+    - 1746
+  label: 補陰大造丸
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d4d8
+    span:
+    - body
+    - 1746
+    - 1885
+  label: 妊娠食忌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d4d9
+    span:
+    - body
+    - 1885
+    - 2044
+  label: 妊娠藥忌歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d4d10
+    span:
+    - body
+    - 2044
+    - 3021
+  label: 保胎總論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d4d11
+    span:
+    - body
+    - 3021
+    - 4777
+  label: 辨胎病
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d4.d11d2
+    span:
+    - body
+    - 3024
+    - 3317
+  label: 墜胎辨
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d4.d11d3
+    span:
+    - body
+    - 3317
+    - 3733
+  label: 小產辨再與千金保孕丸泰山磐石散二方參照而用可也
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d4.d11d4
+    span:
+    - body
+    - 3733
+    - 3997
+  label: 孕婦失血類中風症辨
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d4.d11d5
+    span:
+    - body
+    - 3997
+    - 4323
+  label: 胎不安及胎死欲落救母辨
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d4.d11d6
+    span:
+    - body
+    - 4323
+    - 4777
+  label: 補母壽子論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d4d12
+    span:
+    - body
+    - 4777
+    - 6969
+  label: 孕婦二十七症方
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d4.d12d2
+    span:
+    - body
+    - 4784
+    - 4950
+  label: 安胎
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d4.d12d3
+    span:
+    - body
+    - 4950
+    - 5127
+  label: 嘔逆
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d4.d12d4
+    span:
+    - body
+    - 5127
+    - 5200
+  label: 多怒
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d4.d12d5
+    span:
+    - body
+    - 5200
+    - 5288
+  label: 腹痛
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d4.d12d6
+    span:
+    - body
+    - 5288
+    - 5516
+  label: 面目浮腫
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d4.d12d7
+    span:
+    - body
+    - 5516
+    - 5631
+  label: 胎上攻
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d4.d12d8
+    span:
+    - body
+    - 5631
+    - 5762
+  label: 胎漏須與胎動內胎漏參看
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d4.d12d9
+    span:
+    - body
+    - 5762
+    - 6148
+  label: 胎動
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d4.d12d10
+    span:
+    - body
+    - 6148
+    - 6293
+  label: 子煩
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d4.d12d11
+    span:
+    - body
+    - 6293
+    - 6495
+  label: 腹脹
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d4.d12d12
+    span:
+    - body
+    - 6495
+    - 6969
+  label: 水腫
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ed032_jc_003-d5.h1s1
+    span:
+    - body
+    - 0
+    - 2223
+  label: 胎症下卷
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ed032_jc_003-d5d2
+    span:
+    - body
+    - 4
+    - 127
+  label: 口噤
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed032_jc_003-d5d3
+    span:
+    - body
+    - 127
+    - 223
+  label: 子淋
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed032_jc_003-d5d4
+    span:
+    - body
+    - 223
+    - 290
+  label: 溺血
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed032_jc_003-d5d5
+    span:
+    - body
+    - 290
+    - 649
+  label: 淋秘附大小便不通小便失遺
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed032_jc_003-d5d6
+    span:
+    - body
+    - 649
+    - 806
+  label: 胎水不利
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed032_jc_003-d5d7
+    span:
+    - body
+    - 806
+    - 987
+  label: 咳嗽
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed032_jc_003-d5d8
+    span:
+    - body
+    - 987
+    - 1090
+  label: 嗽血
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed032_jc_003-d5d9
+    span:
+    - body
+    - 1090
+    - 1217
+  label: 霍亂
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed032_jc_003-d5d10
+    span:
+    - body
+    - 1217
+    - 1343
+  label: 瘧疾
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed032_jc_003-d5d11
+    span:
+    - body
+    - 1343
+    - 1376
+  label: 口乾
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed032_jc_003-d5d12
+    span:
+    - body
+    - 1376
+    - 1459
+  label: 煩躁
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed032_jc_003-d5d13
+    span:
+    - body
+    - 1459
+    - 1528
+  label: 嘔吐
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed032_jc_003-d5d14
+    span:
+    - body
+    - 1528
+    - 1621
+  label: 斑症
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed032_jc_003-d5d15
+    span:
+    - body
+    - 1621
+    - 1693
+  label: 熱痛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed032_jc_003-d5d16
+    span:
+    - body
+    - 1693
+    - 1797
+  label: 吐衄
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed032_jc_003-d5d17
+    span:
+    - body
+    - 1797
+    - 1910
+  label: 胎喘
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed032_jc_003-d5d18
+    span:
+    - body
+    - 1910
+    - 2076
+  label: 交骨不開
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed032_jc_003-d5d19
+    span:
+    - body
+    - 2076
+    - 2223
+  label: 子宮不收
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed032_jc_000-d6.h1s1
+    span:
+    - body
+    - 0
+    - 4212
+  label: 臨產
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed032_jc_000-d6d2
+    span:
+    - body
+    - 2
+    - 180
+  label: 臨產脈訣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed032_jc_000-d6d3
+    span:
+    - body
+    - 180
+    - 1133
+  label: 保產諸方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed032_jc_000-d6d4
+    span:
+    - body
+    - 1133
+    - 4212
+  label: 臨產須知十二條
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed032_jc_000-d6.d4d26
+    span:
+    - body
+    - 2115
+    - 2395
+  label: 胎衣不下方
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ed032_jc_000-d6.d4d27
+    span:
+    - body
+    - 2395
+    - 2648
+  label: 難產諸方
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ed032_jc_000-d6.d4d28
+    span:
+    - body
+    - 2648
+    - 2848
+  label: 橫逆諸方
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ed032_jc_000-d6.d4d29
+    span:
+    - body
+    - 2848
+    - 3866
+  label: 死胎諸症方
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ed032_jc_000-d6.d4d30
+    span:
+    - body
+    - 3866
+    - 3940
+  label: 收腸方
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ed032_jc_000-d6.d4d31
+    span:
+    - body
+    - 3940
+    - 3993
+  label: 陰腫方
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ed032_jc_000-d6.d4d32
+    span:
+    - body
+    - 3993
+    - 4212
+  label: 陰挺方
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d7.h1s1
+    span:
+    - body
+    - 0
+    - 10607
+  label: 產後上卷
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d7d2
+    span:
+    - body
+    - 4
+    - 10607
+  label: 產後諸症總論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d7.d2d4
+    span:
+    - body
+    - 681
+    - 1072
+  label: 生化論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d7.d2d5
+    span:
+    - body
+    - 1072
+    - 1657
+  label: 血塊論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d7.d2d6
+    span:
+    - body
+    - 1657
+    - 2302
+  label: 血暈論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d7.d2d7
+    span:
+    - body
+    - 2302
+    - 2625
+  label: 厥症論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d7.d2d8
+    span:
+    - body
+    - 2625
+    - 2991
+  label: 暈厥總論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d7.d2d9
+    span:
+    - body
+    - 2991
+    - 3642
+  label: 血崩論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d7.d2d10
+    span:
+    - body
+    - 3642
+    - 4011
+  label: 氣短似喘論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d7.d2d11
+    span:
+    - body
+    - 4011
+    - 4562
+  label: 妄言妄見論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d7.d2d12
+    span:
+    - body
+    - 4562
+    - 4751
+  label: 血脫氣脫神脫總論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d7.d2d13
+    span:
+    - body
+    - 4751
+    - 5299
+  label: 傷食論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d7.d2d14
+    span:
+    - body
+    - 5299
+    - 5547
+  label: 忿怒論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d7.d2d15
+    span:
+    - body
+    - 5547
+    - 6366
+  label: 傷氣傷食總論附脹滿
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d7.d2d16
+    span:
+    - body
+    - 6366
+    - 6890
+  label: 類瘧論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d7.d2d17
+    span:
+    - body
+    - 6890
+    - 7293
+  label: 產後類傷寒二陽症論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d7.d2d18
+    span:
+    - body
+    - 7293
+    - 7582
+  label: 產後類傷寒三陰症論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d7.d2d19
+    span:
+    - body
+    - 7582
+    - 7655
+  label: 產後傷寒總論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d7.d2d20
+    span:
+    - body
+    - 7655
+    - 8072
+  label: 類中風論治產後氣血暴竭百體少血濡養而然也
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d7.d2d21
+    span:
+    - body
+    - 8072
+    - 8368
+  label: 咳嗽論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d7.d2d22
+    span:
+    - body
+    - 8368
+    - 9027
+  label: 虛汗論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d7.d2d23
+    span:
+    - body
+    - 9027
+    - 9181
+  label: 盜汗論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d7.d2d24
+    span:
+    - body
+    - 9181
+    - 9568
+  label: 口渴兼小便不利論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d7.d2d25
+    span:
+    - body
+    - 9568
+    - 9741
+  label: 產後遺尿
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d7.d2d26
+    span:
+    - body
+    - 9741
+    - 9870
+  label: 類痙
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ed032_jc_001-d7.d2d27
+    span:
+    - body
+    - 9870
+    - 10607
+  label: 泄瀉論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ed032_jc_003-d8.h1s1
+    span:
+    - body
+    - 0
+    - 5208
+  label: 產後下卷
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ed032_jc_003-d8d2
+    span:
+    - body
+    - 4
+    - 5208
+  label: 完穀不化論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed032_jc_003-d8.d2d12
+    span:
+    - body
+    - 417
+    - 1069
+  label: 痢疾論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ed032_jc_003-d8.d2d13
+    span:
+    - body
+    - 1069
+    - 1341
+  label: 霍亂論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ed032_jc_003-d8.d2d14
+    span:
+    - body
+    - 1341
+    - 1683
+  label: 嘔逆不食
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ed032_jc_003-d8.d2d15
+    span:
+    - body
+    - 1683
+    - 1770
+  label: 產後口渴
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ed032_jc_003-d8.d2d16
+    span:
+    - body
+    - 1770
+    - 2006
+  label: 水腫論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ed032_jc_003-d8.d2d17
+    span:
+    - body
+    - 2006
+    - 2310
+  label: 怔忡驚悸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ed032_jc_003-d8.d2d18
+    span:
+    - body
+    - 2310
+    - 2596
+  label: 骨蒸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ed032_jc_003-d8.d2d19
+    span:
+    - body
+    - 2596
+    - 2826
+  label: 心痛
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ed032_jc_003-d8.d2d20
+    span:
+    - body
+    - 2826
+    - 3055
+  label: 腹痛
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ed032_jc_003-d8.d2d21
+    span:
+    - body
+    - 3055
+    - 3150
+  label: 小腹痛
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ed032_jc_003-d8.d2d22
+    span:
+    - body
+    - 3150
+    - 3363
+  label: 遍身疼痛
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ed032_jc_003-d8.d2d23
+    span:
+    - body
+    - 3363
+    - 3459
+  label: 產後指節頭痛
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ed032_jc_003-d8.d2d24
+    span:
+    - body
+    - 3459
+    - 3595
+  label: 腰痛
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ed032_jc_003-d8.d2d25
+    span:
+    - body
+    - 3595
+    - 3770
+  label: 淋症論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ed032_jc_003-d8.d2d26
+    span:
+    - body
+    - 3770
+    - 3976
+  label: 小便頻數論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ed032_jc_003-d8.d2d27
+    span:
+    - body
+    - 3976
+    - 4496
+  label: 流注論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ed032_jc_003-d8.d2d28
+    span:
+    - body
+    - 4496
+    - 4768
+  label: 陰蝕五疳論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ed032_jc_003-d8.d2d29
+    span:
+    - body
+    - 4768
+    - 4806
+  label: 產後陰翻
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ed032_jc_003-d8.d2d30
+    span:
+    - body
+    - 4806
+    - 5091
+  label: 無乳論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ed032_jc_003-d8.d2d31
+    span:
+    - body
+    - 5091
+    - 5208
+  label: 乳癰
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ed032_jc_000-d9.h1s1
+    span:
+    - body
+    - 0
+    - 6840
+  label: 附錄
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed032_jc_000-d9d2
+    span:
+    - body
+    - 2
+    - 454
+  label: 竹林產後五急十九危症產後五急
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed032_jc_000-d9.d2d12
+    span:
+    - body
+    - 194
+    - 454
+  label: 升舉止崩復神湯
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ed032_jc_000-d9d3
+    span:
+    - body
+    - 454
+    - 1209
+  label: 產後十九危症並以加參生化湯為主加減治之
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed032_jc_000-d9.d3d2
+    span:
+    - body
+    - 473
+    - 1006
+  label: 加參生化湯
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ed032_jc_000-d9.d3d3
+    span:
+    - body
+    - 1006
+    - 1209
+  label: 丹溪醫案大補方
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ed032_jc_000-d9d4
+    span:
+    - body
+    - 1209
+    - 4160
+  label: 又明產後二十九症醫方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed032_jc_000-d9.d4d60
+    span:
+    - body
+    - 2741
+    - 2823
+  label: 參桂生化湯
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ed032_jc_000-d9.d4d61
+    span:
+    - body
+    - 2823
+    - 3935
+  label: 資生丹治法通開於後
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ed032_jc_000-d9.d4d62
+    span:
+    - body
+    - 3935
+    - 4115
+  label: 竹葉湯產後中風痙病發熱面正赤喘而頭痛出金匱
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ed032_jc_000-d9.d4d63
+    span:
+    - body
+    - 4115
+    - 4160
+  label: 牛膝散治胎衣不下腹中脹急
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ed032_jc_000-d9d5
+    span:
+    - body
+    - 4160
+    - 4391
+  label: 產後半月外血塊不散辨
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed032_jc_000-d9.d5d4
+    span:
+    - body
+    - 4308
+    - 4391
+  label: 加減補中益氣湯
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ed032_jc_000-d9d6
+    span:
+    - body
+    - 4391
+    - 6840
+  label: 調經方論
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed032_jc_000-d9.d6d6
+    span:
+    - body
+    - 4956
+    - 5322
+  label: 調經地黃湯即六味飲加阿膠五味子
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ed032_jc_000-d9.d6d7
+    span:
+    - body
+    - 5322
+    - 5517
+  label: 升陽舉經湯
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ed032_jc_000-d9.d6d8
+    span:
+    - body
+    - 5517
+    - 5714
+  label: 柏子仁丸
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ed032_jc_000-d9.d6d9
+    span:
+    - body
+    - 5714
+    - 5791
+  label: 助風益氣湯
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ed032_jc_000-d9.d6d10
+    span:
+    - body
+    - 5791
+    - 6013
+  label: 助風益陰湯加減
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ed032_jc_000-d9.d6d11
+    span:
+    - body
+    - 6013
+    - 6154
+  label: 膠艾湯有加當歸海螵蛸以治帶者
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ed032_jc_000-d9.d6d12
+    span:
+    - body
+    - 6154
+    - 6618
+  label: 椒仁丸
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ed032_jc_000-d9.d6d13
+    span:
+    - body
+    - 6618
+    - 6699
+  label: 通白湯
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ed032_jc_000-d9.d6d14
+    span:
+    - body
+    - 6699
+    - 6748
+  label: 延年種子方
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ed032_jc_000-d9.d6d15
+    span:
+    - body
+    - 6748
+    - 6840
+  label: 鹿杞膏
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ed032_jc_000-d10.h1s1
+    span:
+    - body
+    - 6840
+    - 7047
+  label: 跋
+  type: section
+  level: 1
+hash: sha256:1b5c355b1ded737eac6119375885c53917e93591d96f3b71f68f4ec31aaacbe0
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
